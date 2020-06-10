@@ -1,5 +1,5 @@
 <h1 align="center">
-  React Blog 
+  React Blog For Git Issues
 </h1>
 
 <h2 align="center">
